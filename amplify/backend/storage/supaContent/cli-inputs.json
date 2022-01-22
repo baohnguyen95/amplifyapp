@@ -1,0 +1,14 @@
+{
+  "resourceName": "supaContent",
+  "policyUUID": "bfaf40d1",
+  "bucketName": "supaContentBucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
